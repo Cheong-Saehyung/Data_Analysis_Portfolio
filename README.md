@@ -8,5 +8,4 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/79623918/111061036-898c1100-84e4-11eb-9454-255cd2434f90.png"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/79623918/111061038-8a24a780-84e4-11eb-82d1-a38598b96a72.png"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/79623918/111061039-8bee6b00-84e4-11eb-92f2-070b17834912.png"></p>
-
-[파이썬 데이터분석 포트폴리오.pdf](https://github.com/Cheong-Saehyung/Data_Analysis_Portfolio/files/6138622/default.pdf)
+<p align="center"><img src="https://github.com/Cheong-Saehyung/Data_Analysis_Portfolio/files/6138622/default.pdf"></p>
